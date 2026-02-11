@@ -1,3 +1,7 @@
 torch
 transformers
 numpy
+torchvision
+torchaudio 
+matplotlib 
+
