@@ -8,7 +8,7 @@ This document proves the efficiency gains of the **Engineered Model** vs. the **
 | Metric | Model A (Naive) | Model B (Engineered) | Improvement |
 | :--- | :--- | :--- | :--- |
 | **Latency (s)** | 0.0429 | **0.0366** | **🚀 14.7% Faster** |
-| **Complexity** | $O(N^2)$ Full | **$O(N)$ Cached** | **Scalable** |
+| **Complexity** | O(N^2) Full | **O(N) Cached** | **Scalable** |
 | **Output** | Validated | **Validated** | **Exact Match** |
 
 ## Phase Analysis
